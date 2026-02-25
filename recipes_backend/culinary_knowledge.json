@@ -1,0 +1,74 @@
+{
+    "Techniques": {
+        "braise": "Braising is a combination-cooking method that uses both wet and dry heats: typically, the food is first seared at a high temperature, then finished in a covered pot at a lower temperature while sitting in some amount of liquid.",
+        "julienne": "Julienne, allumette, or french cut, is a culinary knife cut in which the food item is cut into long thin strips, similar to matchsticks.",
+        "sous-vide": "Sous-vide is a method of cooking in which food is placed in a plastic pouch or a glass jar and cooked in a water bath for longer than usual cooking times at a precisely regulated temperature.",
+        "flambe": "Flambé is a cooking procedure in which alcohol is added to a hot pan to create a burst of flames.",
+        "blanch": "Blanching is a cooking process in which a food, usually a vegetable or fruit, is scalded in boiling water, removed after a brief, timed interval, and finally plunged into iced water or placed under cold running water to halt the cooking process.",
+        "poach": "Poaching is a type of moist-heat cooking technique that involves cooking an item by submerging it in a liquid, such as water, milk, stock or wine.",
+        "sear": "Searing is a technique used in grilling, baking, braising, roasting, sautéing, etc., in which the surface of the food is cooked at high temperature until a caramelized crust forms.",
+        "deglaze": "Deglazing is a cooking technique for removing and dissolving browned food residue from a pan to flavor sauces, soups, and gravies.",
+        "emulsify": "Emulsification is the process of combining two liquids that don't naturally mix, such as oil and vinegar.",
+        "reduction": "Reduction is the process of thickening and intensifying the flavor of a liquid mixture such as a soup, sauce, wine, or juice by simmering or boiling."
+    },
+    "Ingredients": {
+        "miso": "Miso is a traditional Japanese seasoning produced by fermenting soybeans with salt and koji and sometimes rice, barley, seaweed or other ingredients.",
+        "truffle": "A truffle is the fruiting body of a subterranean ascomycete fungus, predominantly one of the many species of the genus Tuber.",
+        "saffron": "Saffron is a spice derived from the flower of Crocus sativus, commonly known as the 'saffron crocus'. It is among the world's most costly spices by weight.",
+        "ghee": "Ghee is a class of clarified butter that originated in ancient India and is commonly used in Indian, Middle Eastern, Chinese, Southeast Asian, and East African cuisines.",
+        "kimchi": "Kimchi is a traditional Korean side dish of salted and fermented vegetables, such as napa cabbage and Korean radish, made with a widely varying selection of seasonings, including gochugaru, spring onions, garlic, ginger, and jeotgal.",
+        "tofu": "Tofu, also known as bean curd, is a food prepared by coagulating soy milk and then pressing the resulting curds into solid white blocks of varying softness.",
+        "pancetta": "Pancetta is a salt-cured pork belly meat product. It is often used to add flavor to soups and pastas.",
+        "shallot": "The shallot is a botanical variety of the onion. It has a milder flavor than a regular onion and is often used in French cuisine.",
+        "capers": "Capers are the unripened flower buds of Capparis spinosa. They are usually pickled and used as a seasoning or garnish.",
+        "star anise": "Star anise is a spice that is the star-shaped fruit of Illicium verum, an evergreen tree native to northeast Vietnam and southwest China."
+    },
+    "Food Science": {
+        "maillard reaction": "The Maillard reaction is a chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.",
+        "gluten": "Gluten is a structural protein naturally found in certain cereal grains. It gives dough elasticity and helps bread rise.",
+        "smoke point": "The smoke point of an oil or fat is the temperature at which it begins to produce a continuous bluish smoke that becomes clearly visible.",
+        "oxidation": "Oxidation is a chemical process that occurs when food is exposed to oxygen, often leading to browning or spoilage (e.g., sliced apples turning brown).",
+        "fermentation": "Fermentation is a metabolic process that produces chemical changes in organic substrates through the action of enzymes.",
+        "caramelization": "Caramelization is the oxidation of sugar, a process used extensively in cooking for the resulting nutty flavor and brown color.",
+        "leavening": "Leavening is the process of a substance used in doughs and batters that causes them to rise by releasing gas.",
+        "umami": "Umami is the fifth basic taste, characterized as a savory, meaty flavor. It is found in foods high in glutamate.",
+        "gelatinization": "Gelatinization is a process of breaking down the intermolecular bonds of starch molecules in the presence of water and heat.",
+        "denature": "Denaturation is a process in which proteins or nucleic acids lose the quaternary structure, tertiary structure, and secondary structure."
+    },
+    "Cuisines": {
+        "italian": "Italian cuisine has developed through centuries of social and political changes, with roots as far back as the 4th century BC. It is known for its regional diversity and emphasis on fresh ingredients like pasta, tomatoes, and olive oil.",
+        "japanese": "Japanese cuisine is based on combining staple foods, typically Japanese rice or noodles, with soup and okazu—dishes made from fish, vegetable, tofu and the like—to add flavor to the staple food.",
+        "mexican": "Mexican cuisine is primarily a fusion of indigenous Mesoamerican cooking with European, especially Spanish, elements introduced after the Spanish conquest of the Aztec Empire.",
+        "indian": "Indian cuisine consists of a variety of regional and traditional cuisines native to the Indian subcontinent. It is characterized by the extensive use of various Indian spices, herbs, vegetables, and fruits.",
+        "french": "French cuisine consists of the cooking traditions and practices from France. It has evolved over centuries, from the elaborate styles of the royal courts to modern 'nouvelle cuisine'.",
+        "thai": "Thai cuisine is the national cuisine of Thailand. Thai cooking places emphasis on lightly prepared dishes with strong aromatic components and a spicy edge.",
+        "chinese": "Chinese cuisine is one of the world's oldest and most diverse cuisines, consisting of many regional styles like Cantonese, Sichuan, and Hunan.",
+        "greek": "Greek cuisine is a Mediterranean cuisine. It makes wide use of olive oil, vegetables, herbs, grains, bread, wine, fish, and various meats.",
+        "spanish": "Spanish cuisine consists of the traditions and practices of Spanish cooking. It features ingredients like olive oil, garlic, and fresh vegetables, with tapas being a world-famous tradition.",
+        "korean": "Korean cuisine is the customary cooking traditions and practices of the culinary arts of Korea. It is largely based on rice, vegetables, and meats, with a heavy emphasis on fermented foods like kimchi."
+    },
+    "Baking": {
+        "knead": "Kneading is a process in the making of bread or pasta dough, used to mix the ingredients and add strength to the final product.",
+        "proof": "Proofing is a step in the preparation of yeast bread and other baked goods where the dough is allowed to rise for a final time before baking.",
+        "score": "Scoring a loaf of bread is making shallow cuts in the surface of the dough before baking to control the direction in which the bread expands.",
+        "blind bake": "Blind baking is the process of baking a pie crust or other pastry without the filling.",
+        "cream": "Creaming is the technique of softening solid fat (like butter) and mixing it with sugar to incorporate air, which helps leaven the bake.",
+        "fold": "Folding is a gentle mixing technique used to incorporate light, airy ingredients into a heavier mixture without losing the incorporated air.",
+        "temper": "Tempering chocolate is a process of heating and cooling chocolate to specific temperatures so that it sets with a glossy finish and a crisp snap.",
+        "royal icing": "Royal icing is a hard white icing, made from softly beaten egg whites, icing sugar, and sometimes lemon or lime juice.",
+        "ganache": "Ganache is a glaze, icing, sauce, or filling for pastries made from chocolate and cream.",
+        "meringue": "Meringue is a type of dessert or candy, often associated with Swiss, French, and Italian cuisine, traditionally made from whipped egg whites and sugar."
+    },
+    "Global Ingredients": {
+        "harissa": "Harissa is a hot chili pepper paste, native to the Maghreb.",
+        "sumac": "Sumac is a spice made from the dried and ground berries of the wild sumac flower. It has a tangy, lemony flavor.",
+        "zaatar": "Za'atar is a culinary herb or family of herbs. It is also the name of a spice mixture typically used as a condiment.",
+        "gochujang": "Gochujang is a savory, sweet, and spicy fermented condiment made from chili powder, glutinous rice, meju powder, barley malt powder, and salt.",
+        "nori": "Nori is a dried edible seaweed used in Japanese cuisine, made from species of the red algae genus Pyropia.",
+        "tamarind": "Tamarind is a leguminous tree bearing edible fruit that is indigenous to tropical Africa. The fruit has a fleshy, juicy, acidulous pulp.",
+        "lemongrass": "Cymbopogon, also known as lemongrass, is a genus of Asian, African, Australian, and tropical island plants in the grass family.",
+        "wasabi": "Wasabi is a plant of the family Brassicaceae. Its stem is used as a condiment and has an extremely strong pungency more like hot mustard than the capsaicin in a chili pepper.",
+        "halloumi": "Halloumi is a semi-hard, unripened cheese made from a mixture of goat's and sheep's milk, and sometimes also cow's milk. It has a high smoke point and can be easily fried or grilled.",
+        "edamame": "Edamame is a preparation of immature soybeans in the pod, found in cuisines with origins in East Asia."
+    }
+}
